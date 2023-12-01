@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <pizza name="Margherita">
+            <ingridient name="flour">330g</ingridient>
+
+            <ingridient name ="salt">1 tsp</ingridient>
+
+            <ingridient name = "yeast">1 tbsp</ingridient>
+
+            <ingridient name="olive oil">1 tbsp</ingridient>
+
+            <ingridient name="water">200 ml</ingridient>
+
+
+
+            <ingridient name="tomato paste">100 ml</ingridient>
+
+            <ingridient name = "garlic">1 clove</ingridient>
+
+            <ingridient name = "bazil">1 tbsp</ingridient>
+
+            <ingridient name = "mozarella">250g</ingridient>
+
+            <ingridient name = "cherry tomatoes">1 glass</ingridient>
+
+
+            <instruction>
+                Make the basis. To do this, take a large bowl and add flour, yeast and salt. We mix well, and then we pour water (warm room temperature) and olive oil into the mixture. Again we stir it to a uniform mass.
+
+                We will transfer the dough on the pre-sprinkled flour, laid out on the table confectionery paper. And crushed for 5 minutes.
+
+                After covering with a towel and leave aside to raise the dough. Although this item is not mandatory. If you need a thin crust, you can immediately start the next step.
+
+                Now we make a sauce for pizza «Margarita». We mix all the ingredients: paste, basil, garlic. We’ll leave it at room temperature while we prepare the base.
+
+                If you did not give the opportunity to climb the dough, then immediately roll. In any case, do a rolling circle of 25 cm - 30 cm in diameter. The dough should be thin as it will rise in the oven.
+
+                Prepare the filling - the basic composition. Preheat the oven to 220-240 degrees. Place an oven on the top shelf, you can even turn it over.
+
+                Spread the sauce on the dough back (convex) part of the spoon over the entire surface. Scatter grated or sliced cheese and tomatoes. Sprinkle with olive oil and seasoning.
+
+                Place the dough tray on the heated pan in the oven. Bake for 8-10 minutes to crisp.
+            </instruction>
+        </pizza>
+
+        <pizza name="Pepperoni">
+            <ingridient name="flour">330g</ingridient>
+
+            <ingridient name ="salt">1 tsp</ingridient>
+
+            <ingridient name = "yeast">1 tbsp</ingridient>
+
+            <ingridient name="olive oil">1 tbsp</ingridient>
+
+            <ingridient name="water">200 ml</ingridient>
+
+
+
+            <ingridient name="tomato paste">100 ml</ingridient>
+
+            <ingridient name="garlic">1 clove</ingridient>
+
+            <ingridient name="bazil">1 tsp</ingridient>
+
+            <ingridient name="mozarella">250 g</ingridient>
+
+            <ingridient name="salami">200 g</ingridient>
+
+            <ingridient name="canned tomatoes">1 can</ingridient>
+
+            <ingridient name="black pepper">to taste</ingridient>
+
+            <ingridient name="oregano">1 tsp</ingridient>
+
+            <ingridient name="chilli pepper">1 pc</ingridient>
+
+            <instructuion>
+                First, make the sauce: mix tomatoes with spices, crushed garlic, sugar, salt and pepper.
+
+                Bring it to a boil and cool it.
+
+                Roll the dough, grease it with olive oil and sauce.
+
+                Sprinkle half the cheese, lay out the sausage and thin sliced chili.
+
+                On top is the remaining cheese.
+                Cook in the oven for 10-12 minutes at 220 degrees.
+            </instructuion>
+        </pizza>
+</root>

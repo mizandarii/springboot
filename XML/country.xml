@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <country name="Estonia">
+            <languages>
+                <lanaguage isOfficial = "true">Estonian</lanaguage>
+                <language>Russian</language>
+            </languages>
+            <currency>
+                Euro
+            </currency>
+        </country>
+
+        <country name="Finland">
+            <languages>
+                <lanaguage isOfficial = "true">Finnish</lanaguage>
+                <lanaguage isOfficial = "true">Swedish</lanaguage>
+                <language>Karelian</language>
+                <language>Saami</language>
+            </languages>
+            <currency>
+                Euro
+            </currency>
+        </country>
+
+        <country name="Sweden">
+            <languages>
+                <lanaguage isOfficial = "true">Swedish</lanaguage>
+                <language>Finnish</language>
+                <language>Arabic</language>
+            </languages>
+            <currency>
+                Krone
+            </currency>
+        </country>
+
+        <country name="Portugal">
+            <languages>
+                <lanaguage isOfficial = "true">Portugese</lanaguage>
+                <language>Spanish</language>
+            </languages>
+            <currency>
+                Euro
+            </currency>
+        </country>
+
+        <country name="Mongolia">
+            <languages>
+                <lanaguage isOfficial = "true">Mongolian</lanaguage>
+            </languages>
+            <currency>
+                Tugric
+            </currency>
+        </country>
+</root>
