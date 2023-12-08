@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root response="True">
+    <movies>
+        <movie title="What We Do in the Shadows" year="2014" rated="R" released="13 Feb 2015"
+            runtime="86 min" genre="Comedy, Horror" director="Jemaine Clement, Taika Waititi"
+            writer="Jemaine Clement, Taika Waititi"
+            actors="Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer"
+            plot="Follow the lives of Viago (Taika Waititi), Deacon (Jonathan Brugh), and Vladislav (Jemaine Clement) - three flatmates 
+            who are just trying to get by and overcome life's obstacles-like being immortal vampires who must feast on human blood. 
+            Hundreds of years old, the vampires are finding that beyond sunlight catastrophes, hitting the main artery, and not being 
+            able to get a sense of their wardrobe without a reflection-modern society has them struggling with the mundane like paying rent, 
+            keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts."
+            language="English, German, Spanish, Latin"
+            country="New Zealand" awards="26 wins and 18 nominations"
+            poster="https://m.media-amazon.com/images/M/MV5BYmYyYWY4NjgtNGQ2Yi00NDNiLWJlOTgtYjI1MTI0NjZkNjhhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+            metascore="76" imdbRating="7.6" imdbVotes="195,322" imdbID="tt3416742" type="movie" />
+
+        <movie title="Scrubs" year="2001–2010" rated="TV-14" released="02 Oct 2001"
+            runtime="1 min" genre="Comedy, Drama" director="N/A" writer="Bill Lawrence"
+            actors="Zach Braff, Donald Faison, Sarah Chalke"
+            plot="Set in the fictional Sacred Heart hospital in California, John &quot;J.D&quot; Dorian makes his way through the overwhelming world of medicine, with the help of his best friend, his fellow rookie doctors, and the arrogant, but brilliant attending physician he views as his mentor."
+            language="English, German, Spanish, American Sign " country="United States"
+            awards="Won 2 Primetime Emmys. 33 wins and 136 nominations total"
+            poster="https://m.media-amazon.com/images/M/MV5BODE1MGVjZjMtODc5My00ODBjLTg0NWItMDllNTNlM2Y3ZGYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+            metascore="N/A" imdbRating="8.4" imdbVotes="266,473" imdbID="tt0285403"
+            type="series" />
+
+        <movie title="Mimino" year="1977" rated="PG" released="27 Mar 1978" runtime="95 min"
+            genre="Comedy, Drama" director="Georgiy Daneliya"
+            writer="Revaz Gabriadze, Viktoriya Tokareva, Georgiy Daneliya"
+            actors="Vakhtang Kikabidze, Frunzik Mkrtchyan, Elena Proklova"
+            plot="Pilot Mimino works at small local airlines in Telavi, Georgia, flying helicopters between small villages. He dreams of piloting large planes for major international airlines, so he goes to Moscow for refresher courses. There in a hotel he meets truck driver Rubik from Dilijan, Armenia who is given a place in that hotel by mistake. Together they have many adventures in Moscow. However, both are homesick and long for their family, friends, and hometowns in the Caucasus."
+            language="Georgian, Russian, Armenian, English" country="Soviet Union" awards="1 win"
+            poster="https://m.media-amazon.com/images/M/MV5BOTc1YThkMTYtNThiMy00NDcyLWI0ODYtOTY4ZWQwOGM4ZjVhXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_SX300.jpg"
+            metascore="N/A" imdbRating="8.1" imdbVotes="6,632" imdbID="tt0076391" type="movie" />
+
+        <movie title="The Simpsons" year="1989–" rated="TV-14" released="17 Dec 1989"
+            runtime="22 min" genre="Animation, Comedy" director="N/A"
+            writer="James L. Brooks, Matt Groening, Sam Simon"
+            actors="Dan Castellaneta, Nancy Cartwright, Harry Shearer"
+            plot="This is an animated sitcom about the antics of a dysfunctional family. Homer is the oafish unhealthy beer loving father, Marge is the hardworking homemaker wife, Bart is the perpetual ten-year-old underachiever (and proud of it), Lisa is the unappreciated eight-year-old genius, and Maggie is the cute, pacifier loving silent infant."
+            language="English" country="United States"
+            awards="Won 35 Primetime Emmys. 183 wins and 354 nominations total"
+            poster="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+            metascore="N/A" imdbRating="8.7" imdbVotes="428,449" imdbID="tt0096697" type="series" />
+
+        <movie title="The Flowers of War" year="2011" rated="R" released="16 Dec 2011"
+            runtime="146 min" genre="Drama, History, Romance" director="Yimou Zhang"
+            writer="Heng Liu, Geling Yan" actors="Christian Bale, Ni Ni, Xinyi Zhang"
+            plot="In 1937 China, during the second Sino-Japanese war, a mortician, John (Christian Bale) arrives at a Catholic church in Nanjing to prepare a priest for burial. Upon arrival he finds himself the lone adult among a group of convent girl students and prostitutes from a nearby brothel. When he finds himself in the unwanted position of protector of both groups from the horrors of the invading Japanese army, he discovers the meaning of sacrifice and honor."
+            language="Mandarin, Japanese, English, Shanghainese" country="China"
+            awards="15 wins and 16 nominations"
+            poster="https://m.media-amazon.com/images/M/MV5BMjE3OTUzODA3Ml5BMl5BanBnXkFtZTcwNDk5NTUyNw@@._V1_SX300.jpg"
+            metascore="46" imdbRating="7.5" imdbVotes="54,974" imdbID="tt1410063" type="movie" />
+    </movies>
+</root>

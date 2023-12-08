@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root response="True">
+    <news>
+        <item>
+            <title>Politsei otsib Tallinnas kadunud 12-aastast Rogerit</title>
+            <description>Politsei palub abi selgitamaks 12-aastase Rogeri asukohta, kes läks 7. detsembri hommikul kooli ega ole seni tagasi koju tulnud.</description>
+            <link>https://pmo.ee/7914522</link>
+            <guid isPermaLink="false">pm#7914522</guid>
+            <pubDate>Fri, 08 Dec 2023 11:13:49 +0200</pubDate>
+            <author>Postimees</author>
+            <category domain="https://www.postimees.ee">Postimees</category>
+            <category domain="https://www.postimees.ee/section/122">Eesti</category>
+            <enclosure url="https://f9.pmo.ee/9NGiYphAKiy4jDw2vk5H-10lQ8I=/480x270/smart/nginx/o/2023/12/08/15769770t1h81f6.jpg" length="" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>LINNUMÕRVAR ⟩ Tokyo politsei pidas kinni tuvi alla ajanud taksojuhi</title>
+            <description>Jaapani pealinna Tokyo politsei pidas kinni 50-aastase taksojuhi, kes sõitis tahtlikult suurel kiirusel tuviparve suunas, tappes ühe tiivulise.</description>
+            <link>https://pmo.ee/7914512</link>
+            <guid isPermaLink="false">pm#7914512</guid>
+            <pubDate>Fri, 08 Dec 2023 11:12:53 +0200</pubDate>
+            <author>Postimees</author>
+            <category domain="https://maailm.postimees.ee">Maailm</category>
+            <category domain="https://maailm.postimees.ee/section/5441">Regioonid</category>
+            <category domain="https://maailm.postimees.ee/section/5743">Aasia</category>
+            <enclosure url="https://f10.pmo.ee/u6GqX1vYbpAyF7wLtKnVMwY8Fbc=/480x270/filters:focal(1432x895:2481x1704)/nginx/o/2023/07/23/15475063t1h7a7d.jpg" length="" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>Laupäevast võib minna jõgede ja järvede vähemalt kümne sentimeetri paksusega jääle</title>
+            <description>Päästeamet lubab alates laupäevast minna nende siseveekogude jääle, kus jää paksus on vähemalt kümme sentimeetrit.</description>
+            <link>https://pmo.ee/7914519</link>
+            <guid isPermaLink="false">pm#7914519</guid>
+            <pubDate>Fri, 08 Dec 2023 11:11:32 +0200</pubDate>
+            <author>Postimees</author>
+            <category domain="https://www.postimees.ee">Postimees</category>
+            <category domain="https://www.postimees.ee/section/122">Eesti</category>
+            <enclosure url="https://f9.pmo.ee/eHTEtXkQgdj3RYjRLh7W7Y17DIM=/480x270/filters:focal(1139x867:4137x3101)/nginx/o/2023/12/08/15769635t1hf550.jpg" length="" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>Uudne muusika- ja multimeediafestival üllatab põnevate artistidega</title>
+            <description>17. veebruaril toimub Tallinnas Erinevate Tubade Klubis multimeediafestival Extravaganza II, kus esinevad mitmed artistid, muuhulgas Genka ja Dew8, Intrepid ja Kitty Florentine.</description>
+            <link>https://pmo.ee/7914536</link>
+            <guid isPermaLink="false">pm#7914536</guid>
+            <pubDate>Fri, 08 Dec 2023 11:25:15 +0200</pubDate>
+            <author>Kultuuritoimetus</author>
+            <category domain="https://kultuur.postimees.ee">Kultuur</category>
+            <category domain="https://kultuur.postimees.ee/section/3299">Meedia</category>
+            <enclosure url="https://f7.pmo.ee/Vnhop0xJP9TjAA5KrVg8Gr-a85s=/480x270/filters:focal(0x230:1389x1202)/nginx/o/2023/12/08/15769789t1hf43d.jpg" length="" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>VASTASSEIS KLIIMAKÕNELUSTEL ⟩ Naftasõbrad võtsid sõnasabast kinni</title>
+            <description>Ekspertide sõnul võib aasta tähtsaimate kliimaläbirääkimiste tulemus sõltuda sellest, kuidas sõnastatakse «fossiilkütuse kasutamine ilma kasvuhoonegaase (KHG) oluliselt vähendava tehnoloogiata».</description>
+            <link>https://pmo.ee/7914012</link>
+            <guid isPermaLink="false">pm#7914012</guid>
+            <pubDate>Fri, 08 Dec 2023 11:29:34 +0200</pubDate>
+            <author>AFP/BNS/PM</author>
+            <category domain="https://teadus.postimees.ee">Teadus</category>
+            <category domain="https://teadus.postimees.ee/section/4990">Keskkond</category>
+            <enclosure url="https://f12.pmo.ee/JxV_Hhh3AWoRgB1paJnVt11IzZU=/480x270/filters:focal(327x79:1890x2530)/nginx/o/2023/12/08/15769771t1hea42.jpg" length="" type="image/jpeg"/>
+            </item>
+    </news>
+</root>
