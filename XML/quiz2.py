@@ -5,7 +5,7 @@ import html
 with open('questions.json') as f:
     data=json.load(f)
 questions=data['results']
-#print(questions[0]['question'])
+
 
 n = 1
 rightAnswers = 0
@@ -20,7 +20,7 @@ for question in questions:
     random.shuffle(answers)
     print('Answers:\n\t', '\n\t'.join(answers), sep='')
 
-    print("-------correct answer: "+ question['correct_answer'])
+    #print("-------correct answer: "+ question['correct_answer'])
 
     answer = input('Put your answer here: ')
 
@@ -28,7 +28,11 @@ for question in questions:
         print('Correct')
         rightAnswers += 1
         print("Right answers total: " + str(rightAnswers))
+        print("----------------------------------------------------------")
     else:
         print(f"Incorrect: {html.unescape(question['correct_answer'])}")
+        print("Right answers total: " + str(rightAnswers))
+        print("----------------------------------------------------------")
+        
 
 print(f"Quiz is over. Total score: {rightAnswers}/{amount}")
