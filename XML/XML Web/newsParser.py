@@ -1,14 +1,21 @@
 import xml.etree.ElementTree as ET
 import streamlit as st
 
-tree = ET.parse('xml/news.xml')
+st.set_page_config(layout = 'centered')
+
+tree = ET.parse('news.xml')
 root = tree.getroot()
 
-for news in root.findall('item'):
-    title = news.find("title").text
-    st.header(title)
-    st.image(news.find('enclosure').text)
-    for i in news.find("ingredients"):
-        st.text(i.get("title")+"->"+i.get("amount"))
-    for s in news.find("steps"):
-        st.text(s.text)
+st.markdown("<h1 style='text-align: center;'>Tänased uudised</h1>", unsafe_allow_html=True)
+
+
+for news in root.findall('news/item'):
+    st.header(news.find("title").text)
+    st.write(news.find("description").text)
+    st.image(news.find("enclosure").attrib['url'], width=700)
+    st.write("Loe lähemalt postimehe veebilehel: ", news.find('link').text)
+    st.write(news.find('pubDate').text)
+    
+    
+    st.markdown("<p style = 'margin-bottom: 100px'></p>", unsafe_allow_html=True)
+    
