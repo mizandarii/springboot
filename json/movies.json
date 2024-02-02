@@ -1,0 +1,378 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "Title": "Titanic",
+            "Year": "1997",
+            "Rated": "PG-13",
+            "Released": "19 Dec 1997",
+            "Runtime": "194 min",
+            "Genre": "Drama, Romance",
+            "Director": "James Cameron",
+            "Writer": "James Cameron",
+            "Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+            "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+            "Language": "English, Swedish, Italian, French",
+            "Country": "United States, Mexico",
+            "Awards": "Won 11 Oscars. 126 wins & 83 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "88%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "75/100"
+                }
+            ],
+            "Metascore": "75",
+            "imdbRating": "7.9",
+            "imdbVotes": "1,261,488",
+            "imdbID": "tt0120338",
+            "Type": "movie",
+            "DVD": "01 Jun 2014",
+            "BoxOffice": "$674,292,608",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Mimino",
+            "Year": "1977",
+            "Rated": "PG",
+            "Released": "27 Mar 1978",
+            "Runtime": "95 min",
+            "Genre": "Comedy, Drama",
+            "Director": "Georgiy Daneliya",
+            "Writer": "Revaz Gabriadze, Viktoriya Tokareva, Georgiy Daneliya",
+            "Actors": "Vakhtang Kikabidze, Frunzik Mkrtchyan, Elena Proklova",
+            "Plot": "Local Georgian pilot Mimino dreams of flying airplanes for major international airlines. To realize his aspirations, he goes to Moscow where he encounters a fellow comrade from the Caucasus, the Armenian Rubik. Many misadventures ...",
+            "Language": "Georgian, Russian, Armenian, English",
+            "Country": "Soviet Union",
+            "Awards": "1 win",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTc1YThkMTYtNThiMy00NDcyLWI0ODYtOTY4ZWQwOGM4ZjVhXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.1/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.1",
+            "imdbVotes": "6,704",
+            "imdbID": "tt0076391",
+            "Type": "movie",
+            "DVD": "12 Jul 2005",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Schindler's List",
+            "Year": "1993",
+            "Rated": "R",
+            "Released": "04 Feb 1994",
+            "Runtime": "195 min",
+            "Genre": "Biography, Drama, History",
+            "Director": "Steven Spielberg",
+            "Writer": "Thomas Keneally, Steven Zaillian",
+            "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+            "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+            "Language": "English, Hebrew, German, Polish, Latin",
+            "Country": "United States",
+            "Awards": "Won 7 Oscars. 91 wins & 49 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "98%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "95/100"
+                }
+            ],
+            "Metascore": "95",
+            "imdbRating": "9.0",
+            "imdbVotes": "1,427,588",
+            "imdbID": "tt0108052",
+            "Type": "movie",
+            "DVD": "05 Mar 2013",
+            "BoxOffice": "$96,898,818",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Leon",
+            "Year": "2009–",
+            "Rated": "N/A",
+            "Released": "N/A",
+            "Runtime": "3 min",
+            "Genre": "Animation, Short, Family",
+            "Director": "N/A",
+            "Writer": "N/A",
+            "Actors": "Tom Juddy, Jastmo Authur, Henriette Brewster",
+            "Plot": "N/A",
+            "Language": "English",
+            "Country": "France, Germany",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTRiNTdiZDEtYjIwNS00NDNhLTgxMzMtMWFkOTZiYzkxODRiXkEyXkFqcGdeQXVyMzIzNTg4NzQ@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.3/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.3",
+            "imdbVotes": "57",
+            "imdbID": "tt1623187",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "Title": "One Flew Over the Cuckoo's Nest",
+            "Year": "1975",
+            "Rated": "R",
+            "Released": "19 Nov 1975",
+            "Runtime": "133 min",
+            "Genre": "Drama",
+            "Director": "Milos Forman",
+            "Writer": "Lawrence Hauben, Bo Goldman, Ken Kesey",
+            "Actors": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+            "Plot": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Won 5 Oscars. 38 wins & 15 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "93%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "84/100"
+                }
+            ],
+            "Metascore": "84",
+            "imdbRating": "8.7",
+            "imdbVotes": "1,060,833",
+            "imdbID": "tt0073486",
+            "Type": "movie",
+            "DVD": "30 Nov 2016",
+            "BoxOffice": "$108,981,275",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "The Godfather",
+            "Year": "1972",
+            "Rated": "R",
+            "Released": "24 Mar 1972",
+            "Runtime": "175 min",
+            "Genre": "Crime, Drama",
+            "Director": "Francis Ford Coppola",
+            "Writer": "Mario Puzo, Francis Ford Coppola",
+            "Actors": "Marlon Brando, Al Pacino, James Caan",
+            "Plot": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+            "Language": "English, Italian, Latin",
+            "Country": "United States",
+            "Awards": "Won 3 Oscars. 31 wins & 31 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "97%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "100/100"
+                }
+            ],
+            "Metascore": "100",
+            "imdbRating": "9.2",
+            "imdbVotes": "1,979,342",
+            "imdbID": "tt0068646",
+            "Type": "movie",
+            "DVD": "01 Aug 2013",
+            "BoxOffice": "$136,381,073",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "The Shawshank Redemption",
+            "Year": "1994",
+            "Rated": "R",
+            "Released": "14 Oct 1994",
+            "Runtime": "142 min",
+            "Genre": "Drama",
+            "Director": "Frank Darabont",
+            "Writer": "Stephen King, Frank Darabont",
+            "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+            "Plot": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 7 Oscars. 21 wins & 42 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "91%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "82/100"
+                }
+            ],
+            "Metascore": "82",
+            "imdbRating": "9.3",
+            "imdbVotes": "2,851,631",
+            "imdbID": "tt0111161",
+            "Type": "movie",
+            "DVD": "15 Aug 2008",
+            "BoxOffice": "$28,767,189",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Pulp Fiction",
+            "Year": "1994",
+            "Rated": "R",
+            "Released": "14 Oct 1994",
+            "Runtime": "154 min",
+            "Genre": "Crime, Drama",
+            "Director": "Quentin Tarantino",
+            "Writer": "Quentin Tarantino, Roger Avary",
+            "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+            "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "Language": "English, Spanish, French",
+            "Country": "United States",
+            "Awards": "Won 1 Oscar. 69 wins & 72 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "92%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "95/100"
+                }
+            ],
+            "Metascore": "95",
+            "imdbRating": "8.9",
+            "imdbVotes": "2,179,429",
+            "imdbID": "tt0110912",
+            "Type": "movie",
+            "DVD": "21 Apr 2016",
+            "BoxOffice": "$107,928,762",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+
+
+        {
+            "Title": "Fight Club",
+            "Year": "1999",
+            "Rated": "R",
+            "Released": "15 Oct 1999",
+            "Runtime": "139 min",
+            "Genre": "Drama",
+            "Director": "David Fincher",
+            "Writer": "Chuck Palahniuk, Jim Uhls",
+            "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
+            "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+            "Language": "English",
+            "Country": "Germany, United States",
+            "Awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "79%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "67/100"
+                }
+            ],
+            "Metascore": "67",
+            "imdbRating": "8.8",
+            "imdbVotes": "2,287,043",
+            "imdbID": "tt0137523",
+            "Type": "movie",
+            "DVD": "19 Nov 2014",
+            "BoxOffice": "$37,030,102",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+
+        {
+            "Title": "Matrix",
+            "Year": "1993",
+            "Rated": "N/A",
+            "Released": "01 Mar 1993",
+            "Runtime": "60 min",
+            "Genre": "Action, Drama, Fantasy",
+            "Director": "N/A",
+            "Writer": "Grenville Case",
+            "Actors": "Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss",
+            "Plot": "Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix \"dies\" and finds himself in \"The City In Between\", where he is ...",
+            "Language": "English",
+            "Country": "Canada",
+            "Awards": "1 win",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzUzOTA5ZTMtMTdlZS00MmQ5LWFmNjEtMjE5MTczN2RjNjE3XkEyXkFqcGdeQXVyNTc2ODIyMzY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.8/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.8",
+            "imdbVotes": "206",
+            "imdbID": "tt0106062",
+            "Type": "series",
+            "totalSeasons": "N/A",
+            "Response": "True"
+        }
+    ]
+}
